@@ -20,3 +20,8 @@
 <p align="center">
   <img src="https://github.com/grensen/how_to_train/blob/main/figures/how_to_train_higher.png?raw=true">
 </p>
+
+## Weight Maps Input To Hidden1 
+<p align="center">
+  <img src="https://github.com/grensen/how_to_train/blob/main/figures/old_vs_new_weightmaps.png?raw=true">
+</p>
