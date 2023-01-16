@@ -37,3 +37,8 @@ https://github.com/adrianphoulady/weighted-tsetlin-machine-cpp
 <p align="center">
   <img src="https://github.com/grensen/how_to_train/blob/main/figures/old_vs_new_weightmaps.png?raw=true">
 </p>
+
+## System One
+<p align="center">
+  <img src="https://github.com/grensen/how_to_train/blob/main/figures/system1.png?raw=true">
+</p>
